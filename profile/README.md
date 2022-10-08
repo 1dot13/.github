@@ -1,4 +1,3 @@
-# JA2 v1.13
 Jagged Alliance 2 v1.13 is a modification for the Jagged Alliance 2 game.
 
 Original development was done through SVN, this however ended abruptly in 2022, to keep the development going the step to Github has been made.  
