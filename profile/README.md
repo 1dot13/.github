@@ -9,4 +9,4 @@ Feel free to participate in the development!
 For more information you can visit the following locations:
 
 - The Bear's Pit @ https://thepit.ja-galaxy-forum.com
-- JA2 v1.13 pbworks wiki (very old) @ http://ja2v113.pbworks.com/w/page/4218339/FrontPage
+- JA2 v1.13 pbworks wiki (outdated) @ http://ja2v113.pbworks.com/w/page/4218339/FrontPage
